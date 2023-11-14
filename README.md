@@ -1,6 +1,8 @@
 # learn-prestashop
 Repositorio para aprender a hacer tiendas online con Prestashop
 
+![prestashop](https://github.com/cesarlpb/learn-prestashop/assets/25636436/a7287726-db75-4a39-8b8a-4ad27eef3a34)
+
 ---
 
 PrestaShop es una plataforma de comercio electrónico de código abierto que permite a los comerciantes crear tiendas en línea de manera eficiente. Aquí hay una descripción general de PrestaShop:
