@@ -1,6 +1,8 @@
 # learn-prestashop
 Repositorio para aprender a hacer tiendas online con Prestashop
 
+Documentación de Usuario: https://docs.prestashop-project.org/1.7-documentation/v/spanish/guia-usuario
+
 Instalación: https://help-center.prestashop.com/en/articles/10672892369170-install-prestashop-locally-on-your-computer
 
 ![prestashop](https://github.com/cesarlpb/learn-prestashop/assets/25636436/a7287726-db75-4a39-8b8a-4ad27eef3a34)
